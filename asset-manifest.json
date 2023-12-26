@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//ShreyasP1403.github.io/calculator/static/css/main.7f0f3d8f.css",
+    "main.js": "/http//ShreyasP1403.github.io/calculator/static/js/main.5e3b056a.js",
+    "static/js/787.5f81c7f8.chunk.js": "/http//ShreyasP1403.github.io/calculator/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/http//ShreyasP1403.github.io/calculator/index.html",
+    "main.7f0f3d8f.css.map": "/http//ShreyasP1403.github.io/calculator/static/css/main.7f0f3d8f.css.map",
+    "main.5e3b056a.js.map": "/http//ShreyasP1403.github.io/calculator/static/js/main.5e3b056a.js.map",
+    "787.5f81c7f8.chunk.js.map": "/http//ShreyasP1403.github.io/calculator/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0f3d8f.css",
+    "static/js/main.5e3b056a.js"
+  ]
+}
